@@ -1,3 +1,2 @@
 # BudgetApp
 This is our budgeting app for our Developer Student Club
-I'm changing this
